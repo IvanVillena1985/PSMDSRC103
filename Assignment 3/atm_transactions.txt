@@ -1,0 +1,8 @@
+Transaction Summary for Ivan Villena:
+New Balance: 1500
+Transactions:
+
+Transaction Summary for John Doe:
+New Balance: 2300
+Transactions:
+
